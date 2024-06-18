@@ -1,5 +1,7 @@
 # SWAI
 
-run local.py to test body detection
+run local.py to test body detection.
 
-Had difficulties to deploy.
+the video will stored in static folder.
+
+
